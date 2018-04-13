@@ -17,7 +17,7 @@
 body { 
 	background-color: green;
 	color: black;
-	font-family: "Times New Roman","Happy Monkey", Ariel;
+	font-family: "Times New Roman","Happy Monkey", Arial;
 }
 
 h1 {
@@ -28,11 +28,11 @@ h1 {
 }
 
 h2, h4, h6{
-   background-color: rgb(6015030);
+   background-color: rgb(60,150,30);
 }
 
 h3, h5{
-       background-color: MistyRose
+       background-color: MistyRose;
 }
 
 a:link{
@@ -54,8 +54,8 @@ a:active{
 }
 
 p{
-  background-color: green
-  color: black
+  background-color: green;
+  color: black;
 }
 
 img {
